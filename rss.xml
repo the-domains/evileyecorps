@@ -4,9 +4,9 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Oct 2016 20:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2016 20:17:02 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Oct 2016 20:13:47 GMT</pubDate>
+        <pubDate>Thu, 06 Oct 2016 20:17:01 GMT</pubDate>
         <item>
             <title><![CDATA[Autumn Breeze]]></title>
             <description><![CDATA[<article><h1>Autumn Breeze</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a735f23265c6e47f16e0ceebfbfd76458d4b801.jpg"></article>]]></description>
@@ -34,13 +34,6 @@
             <link>http://meh301.co/genova/index.html</link>
             <guid isPermaLink="false">9f50b8f5-0063-4496-8169-11002b4dfab3</guid>
             <pubDate>Sun, 02 Oct 2016 09:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Visually Corrupt]]></title>
-            <description><![CDATA[<article><h1>The Visually Corrupt</h1><h2>The view of the ones in the back of the room.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ff84ec-e796-49bb-b7fb-f2013e838673.jpg"></article>]]></description>
-            <link>http://meh301.co/the-visually-corrupt/index.html</link>
-            <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
-            <pubDate>Thu, 06 Oct 2016 20:08:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
