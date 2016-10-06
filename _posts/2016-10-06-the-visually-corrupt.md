@@ -1,20 +1,23 @@
 ---
-datePublished: '2016-10-06T19:56:55.442Z'
+datePublished: '2016-10-06T20:03:14.370Z'
+sourcePath: _posts/2016-10-06-the-visually-corrupt.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-06T19:56:36.799Z'
+dateModified: '2016-10-06T20:03:13.636Z'
 title: The Visually Corrupt
 publisher: {}
-description: The view of the ones in the back of the room.
+description: ''
 starred: false
-sourcePath: _posts/2016-10-06-the-visually-corrupt.md
-_type: Blurb
+url: the-visually-corrupt/index.html
+_type: Article
 
 ---
 # The Visually Corrupt
 
-The view of the ones in the back of the room.
+## The view of the ones in the back of the room.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ff84ec-e796-49bb-b7fb-f2013e838673.jpg)
 
 Architectural creation neither based on esthetic properties, nor on programmable spatial properties.
 
