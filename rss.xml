@@ -4,9 +4,9 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 07 Oct 2016 06:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2016 07:17:57 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Oct 2016 06:58:42 GMT</pubDate>
+        <pubDate>Fri, 07 Oct 2016 07:17:56 GMT</pubDate>
         <item>
             <title><![CDATA[Autumn Roster]]></title>
             <description><![CDATA[<article><h1>Autumn Roster</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a735f23265c6e47f16e0ceebfbfd76458d4b801.jpg"></article>]]></description>
@@ -41,6 +41,13 @@
             <link>http://meh301.co/genova/index.html</link>
             <guid isPermaLink="false">59b9f3d0-d8ed-4a16-b74e-ce2a6abb3e27</guid>
             <pubDate>Thu, 06 Oct 2016 20:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Visually Corrupt]]></title>
+            <description><![CDATA[<article><h1>The Visually Corrupt</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ff84ec-e796-49bb-b7fb-f2013e838673.jpg"></article>]]></description>
+            <link>http://meh301.co/the-visually-corrupt/index.html</link>
+            <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
+            <pubDate>Fri, 07 Oct 2016 07:17:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Venetian Memories]]></title>
