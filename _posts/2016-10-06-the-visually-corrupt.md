@@ -1,23 +1,21 @@
 ---
-title: The Visually Corrupt
-dateModified: '2016-10-07T07:17:54.092Z'
-publisher: {}
-author: []
+datePublished: '2016-10-07T21:27:13.993Z'
+sourcePath: _posts/2016-10-06-the-visually-corrupt.md
 inFeed: true
 hasPage: true
-description: ''
+author: []
 via: {}
-datePublished: '2016-10-07T07:17:56.335Z'
+dateModified: '2016-10-07T21:27:13.406Z'
+title: The Visually Corrupt
+publisher: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-10-06-the-visually-corrupt.md
 url: the-visually-corrupt/index.html
 _type: Article
 
 ---
 # The Visually Corrupt
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ff84ec-e796-49bb-b7fb-f2013e838673.jpg)
-
-Architectural creation neither based on esthetic properties, nor on programmable spatial properties.
 
 **meh301: everyone should design their own shit**
 
