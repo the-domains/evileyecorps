@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-01T07:42:36.715Z'
+datePublished: '2016-12-01T07:45:58.391Z'
 sourcePath: _posts/2016-10-06-the-visually-corrupt.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-01T07:42:35.950Z'
+dateModified: '2016-12-01T07:45:57.407Z'
 title: The Visually Corrupt
 publisher: {}
 description: ''
-starred: false
 datePublishedOriginal: '2016-10-07T21:27:13.993Z'
+starred: false
 url: the-visually-corrupt/index.html
 _type: Article
 
