@@ -4,9 +4,9 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Dec 2016 07:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2016 07:53:07 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Dec 2016 07:51:39 GMT</pubDate>
+        <pubDate>Thu, 01 Dec 2016 07:53:04 GMT</pubDate>
         <item>
             <title><![CDATA[Autumn Roster]]></title>
             <description><![CDATA[<article><h1>Autumn Roster</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a735f23265c6e47f16e0ceebfbfd76458d4b801.jpg"></article>]]></description>
@@ -29,32 +29,11 @@
             <pubDate>Thu, 06 Oct 2016 20:38:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Knossos]]></title>
-            <description><![CDATA[<article><h1>Knossos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/239770088f336c35f681c9cbf11650e93d1e1cc2.jpg"></article>]]></description>
-            <link>http://meh301.co/knossos/index.html</link>
-            <guid isPermaLink="false">8fdf2810-1a13-4a84-bf7c-ce2783681d9b</guid>
-            <pubDate>Thu, 06 Oct 2016 20:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venetian Memories]]></title>
-            <description><![CDATA[<article><h1>Venetian Memories</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/645d95107f18de2f52a55916678199978d83e434.gif"></article>]]></description>
-            <link>http://meh301.co/venetian-memories/index.html</link>
-            <guid isPermaLink="false">d4886ce6-9cf2-4c94-8a4b-2c10db0138c8</guid>
-            <pubDate>Thu, 01 Dec 2016 07:45:58 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Visually Corrupt]]></title>
             <description><![CDATA[<article><h1>The Visually Corrupt</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ff84ec-e796-49bb-b7fb-f2013e838673.jpg"></article>]]></description>
             <link>http://meh301.co/the-visually-corrupt/index.html</link>
             <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
             <pubDate>Thu, 01 Dec 2016 07:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Genova]]></title>
-            <description><![CDATA[<article><h1>Genova</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5984300a-8ac7-4e72-bb3d-37fad463c9e5.jpg"></article>]]></description>
-            <link>http://meh301.co/genova/index.html</link>
-            <guid isPermaLink="false">59b9f3d0-d8ed-4a16-b74e-ce2a6abb3e27</guid>
-            <pubDate>Thu, 06 Oct 2016 20:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
