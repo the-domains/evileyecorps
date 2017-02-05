@@ -18,9 +18,6 @@ layout_spectrum: 0.2843623114608708
 logo: null
 name: EVE
 navigation:
-  - name: About?
-    id: edbbd517-0b3c-4543-b1b8-27acdb80f324
-    type: content
   - name: Twitter
     url: 'https://twitter.com/meh301'
     type: external
