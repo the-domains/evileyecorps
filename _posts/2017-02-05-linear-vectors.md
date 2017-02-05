@@ -1,8 +1,8 @@
 ---
 description: ''
 author: []
-datePublished: '2017-02-05T18:39:39.800Z'
-dateModified: '2017-02-05T18:39:39.185Z'
+datePublished: '2017-02-05T18:52:37.476Z'
+dateModified: '2017-02-05T18:52:36.878Z'
 title: Linear Vectors
 publisher: {}
 via: {}
