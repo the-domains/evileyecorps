@@ -1,9 +1,10 @@
-typography_spectrum: 0.27702376880378715
+layout_spectrum: 0.08815789871803015
+typography_spectrum: 0.27041545488604224
 color:
-  brandStrength: 0.6166190753523998
-  lightness: 0.5451740243717438
-  saturation: 0.03362870904921305
-  rhythmicContrast: 0.7458568893346271
+  brandStrength: 0.7341695110255502
+  lightness: 0.5474300191660255
+  saturation: 0.035668461636298956
+  rhythmicContrast: 0.7464707448761357
   brandColors:
     - '#DC3522'
     - '#D9CB9E'
@@ -14,7 +15,6 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7d3e4d7-045d-4d6c-9609-88dc0fdce5e5.jpg
-layout_spectrum: 0.2843623114608708
 logo: null
 name: EVE
 navigation:
