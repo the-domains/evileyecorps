@@ -1,16 +1,16 @@
 ---
 description: ''
 author: []
-datePublished: '2017-02-05T18:38:42.261Z'
-dateModified: '2017-02-05T18:38:41.150Z'
+datePublished: '2017-02-05T18:39:39.800Z'
+dateModified: '2017-02-05T18:39:39.185Z'
 title: Linear Vectors
 publisher: {}
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2017-02-05-linear-vectors.md
 starred: false
 datePublishedOriginal: '2017-02-05T18:38:35.698Z'
-sourcePath: _posts/2017-02-05-linear-vectors.md
 url: linear-vectors/index.html
 _context: 'http://schema.org'
 _type: Article
