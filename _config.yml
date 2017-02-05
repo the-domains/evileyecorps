@@ -30,4 +30,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/531ad4dc-257b-47cd-b35f-476c3ac583be.jpg
 content: []
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:evileyecorps@gmail.com'
+    label: Contact
