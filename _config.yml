@@ -63,3 +63,6 @@ purpose:
   - type: contact
     url: 'mailto:alex.orsholits@epfl.ch'
     label: Contact
+  - type: external
+    url: 'http://minerva.photo'
+    label: Personal Photos
