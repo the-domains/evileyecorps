@@ -6,8 +6,8 @@ description: >-
   student had to choose a text of interest (from a predefined list) and develop
   it. Programming the Urban Surface by Alex Wall was explicated in this case.
   The following work was presented for the end of year oral exam.
-dateModified: '2017-08-25T14:01:59.333Z'
-datePublished: '2017-08-25T14:01:59.739Z'
+dateModified: '2017-08-25T14:03:35.101Z'
+datePublished: '2017-08-25T14:03:36.211Z'
 title: Theory of Urbanism II
 author: []
 publisher: {}
