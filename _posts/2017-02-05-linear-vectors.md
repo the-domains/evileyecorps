@@ -1,9 +1,9 @@
 ---
 description: ''
 author: []
-datePublished: '2017-02-05T18:52:37.476Z'
-dateModified: '2017-02-05T18:52:36.878Z'
-title: Linear Vectors
+datePublished: '2017-08-25T13:59:23.999Z'
+dateModified: '2017-08-25T13:59:23.784Z'
+title: Vectoral Typeface
 publisher: {}
 via: {}
 inFeed: true
@@ -16,7 +16,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Linear Vectors
+# Vectoral Typeface
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f8ae744-c84c-4601-aba4-0cee1f04a652.png)
 
 ---
