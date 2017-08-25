@@ -57,9 +57,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Personal Portfolio
 purpose:
-  - type: contact
-    url: 'mailto:alex.orsholits@epfl.ch'
-    label: Contact me
   - type: external
     url: 'http://minerva.photo'
     label: Photography
