@@ -5,16 +5,16 @@ description: >-
   patère in french). Along with Stéphanie Pitteloud and Alexandre Bron, we
   decided to design what would appear as an elongated hook with modular
   attachments allowing for fixation of a small shelf.
-dateModified: '2017-08-23T15:02:21.117Z'
-datePublished: '2017-08-25T13:59:16.060Z'
+dateModified: '2017-08-25T13:59:23.784Z'
+datePublished: '2017-08-25T13:59:24.001Z'
 title: Industrial Design SHS Course
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-25-industrial-design-shs-course.md
 starred: false
 datePublishedOriginal: '2017-08-25T13:59:16.060Z'
-sourcePath: _posts/2017-08-25-industrial-design-shs-course.md
 url: industrial-design-shs-course/index.html
 _type: Article
 
