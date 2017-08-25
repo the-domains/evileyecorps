@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-25T14:08:42.153Z'
-datePublished: '2017-08-25T14:08:42.568Z'
-title: Industrial Design SHS Course
+dateModified: '2017-08-25T14:08:48.534Z'
+datePublished: '2017-08-25T14:08:49.100Z'
+title: Industrial Design I SHS Course
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: industrial-design-shs-course/index.html
 _type: Article
 
 ---
-# Industrial Design SHS Course
+# Industrial Design I SHS Course
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/827d9cad-fdd4-4808-9b55-1e2c19151dda.jpg)
 
 ---
