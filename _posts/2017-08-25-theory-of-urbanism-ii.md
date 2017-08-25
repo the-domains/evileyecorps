@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-25T14:08:29.446Z'
-datePublished: '2017-08-25T14:08:30.083Z'
+dateModified: '2017-08-25T14:16:11.595Z'
+datePublished: '2017-08-25T14:16:12.347Z'
 title: Theory of Urbanism II
 author: []
 publisher: {}
@@ -21,6 +21,8 @@ _type: Article
 ---
 
 The goal of this course was to develop a more theoretical understanding of certain urban ideologies (in contrast to the usual practical exposure). Each student had to choose a text of interest (from a predefined list) and develop it. _Programming the Urban Surface_ by Alex Wall was explicated in this case. The following work was presented for the end of year oral exam.
+
+_[zip files here][0]_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c976dc9a-c43e-44d8-9b19-1eab3dfeda4d.jpg)
 
 _Source: Superstudio_
@@ -42,3 +44,5 @@ _Source: OMA & FOA_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbaa53de-742e-4a8e-a623-388584b005dd.jpg)
 
 _Source: Cedric Price & Archigram & Kisho Kurokawa_
+
+[0]: https://drive.google.com/open?id=0Bz-bSUCMZAQ7U01IVXZnZUh1RkU "zip file"
