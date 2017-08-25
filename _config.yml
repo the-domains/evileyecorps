@@ -1,10 +1,10 @@
-layout_spectrum: 0.34101486460702257
-typography_spectrum: 0.328192380761156
+layout_spectrum: 0.1468138824720489
+typography_spectrum: 0.32264960179326707
 color:
-  brandStrength: 0.4987866937709364
-  lightness: 0.18542794808856036
-  saturation: 0.11572015533666358
-  rhythmicContrast: 0.580490413372414
+  brandStrength: 0.4461944173625901
+  lightness: 0.08767388314442101
+  saturation: 0.11439921148019926
+  rhythmicContrast: 0.7420945632396875
   brandColors:
     - '#DC3522'
     - '#D9CB9E'
@@ -62,4 +62,4 @@ purpose:
     label: Contact
   - type: external
     url: 'http://minerva.photo'
-    label: Personal Photos
+    label: Photography
