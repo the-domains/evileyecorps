@@ -5,8 +5,8 @@ description: >-
   patère in french). Along with Stéphanie Pitteloud and Alexandre Bron, we
   decided to design what would appear as an elongated hook with modular
   attachments allowing for fixation of a small shelf.
-dateModified: '2017-08-25T13:59:23.784Z'
-datePublished: '2017-08-25T13:59:24.001Z'
+dateModified: '2017-08-25T14:01:11.561Z'
+datePublished: '2017-08-25T14:01:12.321Z'
 title: Industrial Design SHS Course
 author: []
 publisher: {}
@@ -28,3 +28,5 @@ The goal of this course was to design and prototype a wall mounted hook (_une pa
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ff549cc-4e4b-42d7-b579-a6ebe330f416.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3f0cd4f-90bf-4113-9073-e830c0475273.jpg)
+
+---
