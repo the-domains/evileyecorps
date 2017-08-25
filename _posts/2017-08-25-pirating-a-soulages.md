@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-23T14:47:04.027Z'
-datePublished: '2017-08-25T16:42:24.206Z'
+dateModified: '2017-08-25T16:42:38.503Z'
+datePublished: '2017-08-25T16:42:38.954Z'
 title: Pirating a Soulages
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-25-pirating-a-soulages.md
 starred: false
 datePublishedOriginal: '2017-08-25T16:42:24.206Z'
-sourcePath: _posts/2017-08-25-pirating-a-soulages.md
 url: pirating-a-soulages/index.html
 _type: Article
 
