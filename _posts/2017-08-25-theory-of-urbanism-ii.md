@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-25T14:16:11.595Z'
-datePublished: '2017-08-25T14:16:12.347Z'
+dateModified: '2017-08-25T16:42:38.503Z'
+datePublished: '2017-08-25T16:42:38.956Z'
 title: Theory of Urbanism II
 author: []
 publisher: {}
