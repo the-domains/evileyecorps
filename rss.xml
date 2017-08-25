@@ -4,15 +4,29 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Aug 2017 16:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2017 16:43:14 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Aug 2017 16:42:27 GMT</pubDate>
+        <pubDate>Fri, 25 Aug 2017 16:42:44 GMT</pubDate>
         <item>
             <title><![CDATA[Theory of Urbanism II]]></title>
             <description><![CDATA[<h1>Theory of Urbanism II</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dfab7-5f8e-4fa6-8a3e-d29143e3e090.jpg">]]></description>
             <link>http://meh301.co/theory-of-urbanism-ii/index.html</link>
             <guid isPermaLink="false">ab4befac-987a-435b-9b60-cb4538c97587</guid>
             <pubDate>Fri, 25 Aug 2017 14:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Principals of Architectural Gestaltung]]></title>
+            <description><![CDATA[<h1>Principals of Architectural Gestaltung</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2b6afa97285a56b79c369e8607a29879/croprotate.jpg?cropheight=4767&cropwidth=7147&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff39eac4f-62ef-481a-89f8-6eb39104fc69.jpg&x=0&y=0">]]></description>
+            <link>http://meh301.co/principals-of-architectural-gestaltung/index.html</link>
+            <guid isPermaLink="false">255b832a-61ee-4b18-ae77-36098c8d62c1</guid>
+            <pubDate>Fri, 25 Aug 2017 16:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pirating a Soulages]]></title>
+            <description><![CDATA[<h1>Pirating a Soulages</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/584a576c-6f9e-4b0f-960b-fcc0cebfb404.jpg">]]></description>
+            <link>http://meh301.co/pirating-a-soulages/index.html</link>
+            <guid isPermaLink="false">71864dd6-dd88-4131-ac9e-c05d0c1a756e</guid>
+            <pubDate>Fri, 25 Aug 2017 16:42:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Industrial Design I SHS Course]]></title>
@@ -41,20 +55,6 @@
             <link>http://meh301.co/the-visually-corrupt/index.html</link>
             <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
             <pubDate>Sun, 05 Feb 2017 16:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Principals of Architectural Gestaltung]]></title>
-            <description><![CDATA[<h1>Principals of Architectural Gestaltung</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2b6afa97285a56b79c369e8607a29879/croprotate.jpg?cropheight=4767&cropwidth=7147&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff39eac4f-62ef-481a-89f8-6eb39104fc69.jpg&x=0&y=0">]]></description>
-            <link>http://meh301.co/principals-of-architectural-gestaltung/index.html</link>
-            <guid isPermaLink="false">255b832a-61ee-4b18-ae77-36098c8d62c1</guid>
-            <pubDate>Fri, 25 Aug 2017 16:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pirating a Soulages]]></title>
-            <description><![CDATA[<h1>Pirating a Soulages</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/584a576c-6f9e-4b0f-960b-fcc0cebfb404.jpg">]]></description>
-            <link>http://meh301.co/pirating-a-soulages/index.html</link>
-            <guid isPermaLink="false">71864dd6-dd88-4131-ac9e-c05d0c1a756e</guid>
-            <pubDate>Fri, 25 Aug 2017 16:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
