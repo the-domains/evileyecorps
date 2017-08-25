@@ -4,9 +4,16 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Aug 2017 14:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2017 14:02:09 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Aug 2017 14:01:53 GMT</pubDate>
+        <pubDate>Fri, 25 Aug 2017 14:02:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[Theory of Urbanism II]]></title>
+            <description><![CDATA[<h1>Theory of Urbanism II</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dfab7-5f8e-4fa6-8a3e-d29143e3e090.jpg">,<p>The goal of this course was to develop a more theoretical understanding of certain urban ideologies (in contrast to the usual practical exposure). Each student had to choose a text of interest (from a predefined list) and develop it. <em>Programming the Urban Surface</em> by Alex Wall was explicated in this case. The following work was presented for the end of year oral exam.</p>]]></description>
+            <link>http://meh301.co/theory-of-urbanism-ii/index.html</link>
+            <guid isPermaLink="false">ab4befac-987a-435b-9b60-cb4538c97587</guid>
+            <pubDate>Fri, 25 Aug 2017 14:01:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Industrial Design SHS Course]]></title>
             <description><![CDATA[<h1>Industrial Design SHS Course</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/827d9cad-fdd4-4808-9b55-1e2c19151dda.jpg">,<p>The goal of this course was to design and prototype a wall mounted hook (<em>une patère</em> in french). Along with Stéphanie Pitteloud and Alexandre Bron, we decided to design what would appear as an elongated hook with modular attachments allowing for fixation of a small shelf.</p>]]></description>
@@ -34,13 +41,6 @@
             <link>http://meh301.co/the-visually-corrupt/index.html</link>
             <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
             <pubDate>Sun, 05 Feb 2017 16:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Theory of Urbanism II]]></title>
-            <description><![CDATA[<h1>Theory of Urbanism II</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dfab7-5f8e-4fa6-8a3e-d29143e3e090.jpg">,<p>The goal of this course was to develop a more theoretical understanding of certain urban ideologies (in contrast to the usual practical exposure). Each student had to choose a text of interest (from a predefined list) and develop it. <em>Programming the Urban Surface</em> by Alex Wall was explicated in this case. The following work was presented for the end of year oral exam.</p>]]></description>
-            <link>http://meh301.co/theory-of-urbanism-ii/index.html</link>
-            <guid isPermaLink="false">ab4befac-987a-435b-9b60-cb4538c97587</guid>
-            <pubDate>Fri, 25 Aug 2017 14:01:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
