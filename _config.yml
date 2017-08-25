@@ -60,3 +60,6 @@ purpose:
   - type: external
     url: 'http://minerva.photo'
     label: Photography
+  - type: external
+    url: 'http://alexorsholits.art'
+    label: Architecture Portfolio
