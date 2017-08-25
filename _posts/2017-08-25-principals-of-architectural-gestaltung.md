@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-25T16:42:14.739Z'
-datePublished: '2017-08-25T16:42:26.842Z'
+dateModified: '2017-08-25T16:42:38.503Z'
+datePublished: '2017-08-25T16:42:38.897Z'
 title: Principals of Architectural Gestaltung
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-25-principals-of-architectural-gestaltung.md
 starred: false
 datePublishedOriginal: '2017-08-25T16:42:26.842Z'
-sourcePath: _posts/2017-08-25-principals-of-architectural-gestaltung.md
 url: principals-of-architectural-gestaltung/index.html
 _type: Article
 
