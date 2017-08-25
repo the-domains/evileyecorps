@@ -59,7 +59,7 @@ description: Personal Portfolio
 purpose:
   - type: contact
     url: 'mailto:alex.orsholits@epfl.ch'
-    label: Contact
+    label: Contact me
   - type: external
     url: 'http://minerva.photo'
     label: Photography
