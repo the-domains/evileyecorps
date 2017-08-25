@@ -4,9 +4,9 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Aug 2017 14:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2017 16:42:35 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Aug 2017 14:16:13 GMT</pubDate>
+        <pubDate>Fri, 25 Aug 2017 16:42:24 GMT</pubDate>
         <item>
             <title><![CDATA[Theory of Urbanism II]]></title>
             <description><![CDATA[<h1>Theory of Urbanism II</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dfab7-5f8e-4fa6-8a3e-d29143e3e090.jpg">]]></description>
@@ -41,6 +41,13 @@
             <link>http://meh301.co/the-visually-corrupt/index.html</link>
             <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
             <pubDate>Sun, 05 Feb 2017 16:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pirating a Soulages]]></title>
+            <description><![CDATA[<h1>Pirating a Soulages</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/584a576c-6f9e-4b0f-960b-fcc0cebfb404.jpg">]]></description>
+            <link>http://meh301.co/pirating-a-soulages/index.html</link>
+            <guid isPermaLink="false">71864dd6-dd88-4131-ac9e-c05d0c1a756e</guid>
+            <pubDate>Fri, 25 Aug 2017 16:42:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
