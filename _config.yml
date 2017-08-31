@@ -18,9 +18,6 @@ opengraph:
 logo: null
 name: EVE
 navigation:
-  - name: VSCO
-    url: 'http://vsco.co/meh301/images/'
-    type: external
   - name: Flickr
     url: 'https://www.flickr.com/photos/48082093@N05/'
     type: external
