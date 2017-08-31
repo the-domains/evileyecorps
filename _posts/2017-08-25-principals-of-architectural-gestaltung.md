@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-31T14:44:31.042Z'
-datePublished: '2017-08-31T14:44:31.829Z'
+dateModified: '2017-08-31T14:44:32.233Z'
+datePublished: '2017-08-31T14:44:32.671Z'
 title: Principals of Architectural Gestaltung
 author: []
 publisher: {}
