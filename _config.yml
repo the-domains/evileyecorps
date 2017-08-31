@@ -17,10 +17,6 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7d3e4d7-045d-4d6c-9609-88dc0fdce5e5.jpg
 logo: null
 name: EVE
-navigation:
-  - name: Flickr
-    url: 'https://www.flickr.com/photos/48082093@N05/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/531ad4dc-257b-47cd-b35f-476c3ac583be.jpg
 title: EVE
