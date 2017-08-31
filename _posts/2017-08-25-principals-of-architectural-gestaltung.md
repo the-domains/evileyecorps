@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-25T16:42:38.503Z'
-datePublished: '2017-08-25T16:42:38.897Z'
+dateModified: '2017-08-31T14:44:31.042Z'
+datePublished: '2017-08-31T14:44:31.829Z'
 title: Principals of Architectural Gestaltung
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ _type: Article
 
 ---
 # Principals of Architectural Gestaltung
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2b6afa97285a56b79c369e8607a29879/croprotate.jpg?cropheight=4767&cropwidth=7147&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff39eac4f-62ef-481a-89f8-6eb39104fc69.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/459c79ca3bf4ab3ba5d26b1f22af1e3b57ab845b.jpg)
 
 ---
 
