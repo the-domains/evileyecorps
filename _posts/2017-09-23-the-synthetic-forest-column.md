@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T22:34:14.388Z'
-datePublished: '2017-09-23T22:34:15.090Z'
+dateModified: '2017-09-23T22:48:15.033Z'
+datePublished: '2017-09-23T22:48:15.941Z'
 title: The Synthetic Forest Column
 author: []
 publisher: {}
@@ -20,7 +20,9 @@ _type: Article
 
 ---
 
-lorem ipsum
+Designed mostly for fun during vacation, this potentially freestanding column provides the possibility for a localized infrastructure, as well as morphological flexibility.
+
+-February 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c96badeb-fd92-4321-b2cd-fe0a7826f4fb.jpg)
 
 ---
