@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T22:23:55.098Z'
-datePublished: '2017-09-23T22:23:55.245Z'
+dateModified: '2017-09-23T22:27:20.850Z'
+datePublished: '2017-09-23T22:27:21.740Z'
 title: The Synthetic Forest Column
 author: []
 publisher: {}
 via: {}
 hasPage: true
-sourcePath: _posts/2017-09-23-the-synthetic-forest-column.md
 starred: false
-datePublishedOriginal: '2017-09-23T22:23:45.011Z'
+datePublishedOriginal: '2017-09-23T22:27:17.479Z'
+sourcePath: _posts/2017-09-23-the-synthetic-forest-column.md
 url: the-synthetic-forest-column/index.html
 _type: Article
 
