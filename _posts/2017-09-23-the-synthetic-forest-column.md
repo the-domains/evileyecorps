@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T22:32:54.426Z'
-datePublished: '2017-09-23T22:32:54.856Z'
+dateModified: '2017-09-23T22:34:06.849Z'
+datePublished: '2017-09-23T22:34:07.430Z'
 title: The Synthetic Forest Column
 author: []
 publisher: {}
@@ -33,7 +33,13 @@ _type: Article
 ---
 
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7706c7a2811d99eb089fd72e6b6a164a/croprotate.jpg?cropheight=1679&cropwidth=3649&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F2a09eeb81ee6f86b407f95d7320cc52d8889ffb2.jpg&x=0&y=0)
+
+---
+
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/74ad82f40e651bf5b64904c382e06012/croprotate.jpg?cropheight=2063&cropwidth=3240&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F734b6d158ca87a48f6363fd951d7d8ab51b0a6fc.jpg&x=0&y=19)
+
+---
+
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/541d633534d2e59d7053233a93f59029f3f7b790.jpg)
 
 ---
