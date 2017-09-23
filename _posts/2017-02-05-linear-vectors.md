@@ -1,8 +1,8 @@
 ---
 description: ''
 author: []
-datePublished: '2017-08-25T16:42:38.960Z'
-dateModified: '2017-08-25T16:42:38.503Z'
+datePublished: '2017-09-23T22:23:55.285Z'
+dateModified: '2017-09-23T22:23:55.098Z'
 title: Vectoral Typeface
 publisher: {}
 via: {}
