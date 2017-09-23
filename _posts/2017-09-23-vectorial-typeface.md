@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T22:58:05.716Z'
-datePublished: '2017-09-23T22:58:16.877Z'
+dateModified: '2017-09-23T22:58:28.760Z'
+datePublished: '2017-09-23T22:58:28.942Z'
 title: Vectorial Typeface
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-23-vectorial-typeface.md
 starred: false
 datePublishedOriginal: '2017-09-23T22:58:16.877Z'
-sourcePath: _posts/2017-09-23-vectorial-typeface.md
 url: vectorial-typeface/index.html
 _type: Article
 
