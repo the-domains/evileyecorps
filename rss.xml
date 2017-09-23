@@ -4,9 +4,9 @@
         <description><![CDATA[EVE]]></description>
         <link>http://meh301.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Sep 2017 22:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2017 22:58:19 GMT</lastBuildDate>
         <atom:link href="http://meh301.co/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Sep 2017 22:48:48 GMT</pubDate>
+        <pubDate>Sat, 23 Sep 2017 22:58:17 GMT</pubDate>
         <item>
             <title><![CDATA[Theory of Urbanism II]]></title>
             <description><![CDATA[<h1>Theory of Urbanism II</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37dfab7-5f8e-4fa6-8a3e-d29143e3e090.jpg">]]></description>
@@ -41,6 +41,13 @@
             <link>http://meh301.co/the-visually-corrupt/index.html</link>
             <guid isPermaLink="false">5bfb7327-fa39-42d0-a421-24ece40d5653</guid>
             <pubDate>Sun, 05 Feb 2017 16:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vectorial Typeface]]></title>
+            <description><![CDATA[<h1>Vectorial Typeface</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7c0bd1-2af0-400e-9fd7-f220b04b60bd.png">]]></description>
+            <link>http://meh301.co/vectorial-typeface/index.html</link>
+            <guid isPermaLink="false">604c9e19-914d-464a-8f01-83361becd602</guid>
+            <pubDate>Sat, 23 Sep 2017 22:58:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
