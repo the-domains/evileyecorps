@@ -20,55 +20,7 @@ name: EVE
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/531ad4dc-257b-47cd-b35f-476c3ac583be.jpg
 title: ''
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af0d868-7ab8-49f2-aa19-627a128b57a7.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af0d868-7ab8-49f2-aa19-627a128b57a7.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da07677-1da2-47af-8d68-3a0417bb6aae.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da07677-1da2-47af-8d68-3a0417bb6aae.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Alex Orsholits - Personal Portfolio
 purpose:
   - type: external
