@@ -19,7 +19,7 @@ logo: null
 name: EVE
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/531ad4dc-257b-47cd-b35f-476c3ac583be.jpg
-title: Alex Orsholits - Personal Portfolio
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
