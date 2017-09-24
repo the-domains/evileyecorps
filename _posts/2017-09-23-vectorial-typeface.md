@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T22:58:28.760Z'
-datePublished: '2017-09-23T22:58:28.942Z'
+dateModified: '2017-09-24T09:37:56.827Z'
+datePublished: '2017-09-24T09:37:57.709Z'
 title: Vectorial Typeface
 author: []
 publisher: {}
@@ -24,6 +24,15 @@ _type: Article
 
 - June 2015
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8d10c5d-40b2-4ef1-b59d-56a35272c3f4.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c97c32f-d43a-4eca-bcbe-f9de6d01b5ff.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69b55117-b74d-4c73-90f1-c3caec0c122f.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd220d51-bffa-416f-87b9-65d52dc8a822.jpg)
