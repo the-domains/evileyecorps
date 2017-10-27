@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-27T22:17:42.209Z'
-datePublished: '2017-10-27T22:17:43.036Z'
+dateModified: '2017-10-27T22:22:42.419Z'
+datePublished: '2017-10-27T22:22:43.610Z'
 title: Principals of Architectural Gestaltung
 author: []
 publisher: {}
@@ -39,11 +39,11 @@ Kimberlyne Nguyen, Alex Orsholits, Laura Primiceri, Jennifer Tribolet
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7e0e79f1dfcd475a191c7405772b30139a64b99.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c3d5e95cc944b09967f348f13ca1d76bb59e43e.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e71e83f1c2c121e1bb8d250dab964377801376ee.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cdfdd493bac21419c77f25cdc32743f8/croprotate.jpg?cropheight=7360&cropwidth=4910&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F579c99d5-e78f-4673-89ff-6d26cdef1bbc.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d43242fd58915c55d101598c638f71cb9a97935.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b70ac933ad7e98e5e02640b1c23c9cf622219c18.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d561ce5ea2d8bfa7699dd513c0fe9ae3d79144e8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70e1f084d2610bbf645659559ca04804cb0bcaa6.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fecb37645a6e4b4ad729dff889a767bd/croprotate.jpg?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe8ad2dd6-3375-43fa-8b15-05244b71ec70.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a04389f1c35389095ea62fc284c64bba20e4e1e4.jpg)
 
 [Plans, sections, facades download][0]
 
