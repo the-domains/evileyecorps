@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-27T22:30:18.580Z'
-datePublished: '2017-10-27T22:30:19.166Z'
+dateModified: '2017-10-27T22:30:19.537Z'
+datePublished: '2017-10-27T22:30:20.067Z'
 title: Vectorial Typeface
 author: []
 publisher: {}
