@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-27T22:17:42.209Z'
-datePublished: '2017-10-27T22:17:43.038Z'
+dateModified: '2017-10-27T22:23:28.405Z'
+datePublished: '2017-10-27T22:23:28.922Z'
 title: Pirating a Soulages
 author: []
 publisher: {}
@@ -20,4 +20,5 @@ _type: Article
 
 ---
 
-Pierre Soulages, famous for his extensive work with the colour black, relies heavily on the surface topography meticulously fashioned by an inexhaustible collection of custom brushes and tools for the creation of visual fascination. General consensus is that a photograph of his work simply cannot maintain the original texture. Personally, agreeing with the general consensus is second nature. Observing basic single photo 3D scanning methods resulted in the ability accurately to map photographs found online in 3D space with an acceptable amount of noise. The result is a printable topography. A sample 17.5cm sided square was printed with a plaster printer as a demonstration. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc2029156b01e11249dbe6501b3e1c148c35b295.jpg)
+Pierre Soulages, famous for his extensive work with the colour black, relies heavily on the surface topography meticulously fashioned by an inexhaustible collection of custom brushes and tools for the creation of visual fascination. General consensus is that a photograph of his work simply cannot maintain the original texture. Personally, agreeing with the general consensus is second nature. Observing basic single photo 3D scanning methods resulted in the ability accurately to map photographs found online in 3D space with an acceptable amount of noise. The result is a printable topography. A sample 17.5cm sided square was printed with a plaster printer as a demonstration.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc2029156b01e11249dbe6501b3e1c148c35b295.jpg)
