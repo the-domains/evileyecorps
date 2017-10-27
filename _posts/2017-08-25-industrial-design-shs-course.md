@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-24T15:05:59.166Z'
-datePublished: '2017-09-24T15:06:00.621Z'
+dateModified: '2017-10-27T22:17:42.209Z'
+datePublished: '2017-10-27T22:17:43.027Z'
 title: Industrial Design I SHS Course
 author: []
 publisher: {}
