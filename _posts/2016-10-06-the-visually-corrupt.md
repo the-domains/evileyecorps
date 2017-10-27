@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-10-27T21:53:55.567Z'
+datePublished: '2017-10-27T22:11:55.766Z'
 sourcePath: _posts/2016-10-06-the-visually-corrupt.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-27T21:53:54.337Z'
-title: Various Digital Works
+dateModified: '2017-10-27T22:11:54.795Z'
+title: Various Works
 publisher: {}
 description: ''
 starred: false
@@ -15,7 +15,7 @@ url: the-visually-corrupt/index.html
 _type: Article
 
 ---
-# Various Digital Works
+# Various Works
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6436e980-9d53-4e5f-9ebb-e52c272bd8e2.jpg)
 
 ---
@@ -25,22 +25,23 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb260add-ee8b-4516-bbaa-00bdaccf8a88.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61786344-1698-45c2-866e-56d834759e5b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8dcaf9-1181-4cc6-8057-09bce3a50e5d.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/68bf8235a84a35dcd1427faba9aa1941/croprotate.jpg?cropheight=3939&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbfa1507a-5fb5-4ed7-8a6a-43fbcbed1d92.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7d502382468b936bbcd4f76bbf1fdcf72327643.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e066c7d-869f-4456-b3b8-752726ff9968.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0143303d-313b-4d38-b73f-1bf2f454b91b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/216e6774-bc23-4cec-90fa-d0b96a1c2646.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/427b33dd-590f-4a1c-9918-ea4b07e3cabb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1645edb-ceb1-4f19-8652-68ead6d78f33.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5bc220-d15a-41c9-84ef-4f88c1e70c44.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8e332572691aa31c416182b83103fa40/croprotate.jpg?cropheight=6091&cropwidth=4248&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5006ede9-1f08-456d-9e58-6623e20388aa.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/292ef6f3619e46bd68b1b07f17c1a7bcec7b7f0c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3be2ba9-2a86-4538-bbd5-bfa126d8114f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ead2f3-5e52-4815-82b5-fc4c5d243bd9.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f4cd1cba9493b63c25e7944042e90a7b/croprotate.jpg?cropheight=3632&cropwidth=7278&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5089a15c-9f02-48c3-80c6-c0da12ecd350.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/093478b7a04781db683170a899910976/croprotate.jpg?cropheight=2751&cropwidth=8141&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9fb05171-50a1-4ebf-8e78-f758c4989659.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/866e80ffbfba5f8a242d9c04cf11f723/croprotate.jpg?cropheight=4263&cropwidth=5000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F20d401ea-0961-4d69-841f-1a0c163df165.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a65844fb18c43d4dc551130db264022/croprotate.jpg?cropheight=4910&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe591b4d4-0d66-49f1-8731-c51901003ab9.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/baf84b0c705a88f49925838851c091db/croprotate.jpg?cropheight=2562&cropwidth=3840&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7ed311fe-d969-4a13-b46b-174459bec40e.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cd20a36ad433c63c77d40ef2d2decedc/croprotate.jpg?cropheight=1306&cropwidth=7000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F795fdcb7-70e0-4dc0-b7bf-26b6d465f4cd.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdc92067a17f0bfa8294c208f3a666eb4a31adfa.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/28e045d4f9940d1be3c1d573d0e53829/croprotate.jpg?cropheight=2751&cropwidth=8094&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fe54dac5773153397cd7db11aa2573ad354e68dd2.jpg&x=24&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab553031e1e2877b6b52f968daac826b100721a4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18c1c672b75a498565c51764987b56c06164d907.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/347dd7cdbec4c35587196c408b3237cc/croprotate.jpg?cropheight=2528&cropwidth=3840&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Faa409a0b7716fc6b1a414e8b16a09d163ad80180.jpg&x=0&y=19)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bcf27a3e722a9bafd85e0d2fc26af3d1c46cbaf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9b4870-ec14-4d0d-97c5-4544e5d61ac8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f22b902-08b6-4f9e-9ba0-1b0679ffae69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e8e12d-bfe3-4a3f-af7c-409269bc162d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1922a8b4-320b-4f26-84e7-371267ef0d74.jpg)
