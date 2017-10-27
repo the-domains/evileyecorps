@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T22:48:15.033Z'
-datePublished: '2017-09-23T22:48:15.941Z'
+dateModified: '2017-10-27T22:17:42.209Z'
+datePublished: '2017-10-27T22:17:43.032Z'
 title: The Synthetic Forest Column
 author: []
 publisher: {}
