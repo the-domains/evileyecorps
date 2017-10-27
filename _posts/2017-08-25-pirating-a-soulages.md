@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-27T22:24:06.034Z'
-datePublished: '2017-10-27T22:24:06.616Z'
+dateModified: '2017-10-27T22:24:07.579Z'
+datePublished: '2017-10-27T22:24:08.167Z'
 title: Pirating a Soulages
 author: []
 publisher: {}
