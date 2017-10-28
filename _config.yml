@@ -48,7 +48,6 @@ content:
         - free
         - upload
       description: Uploaded by Alex Orsholits on 2017-09-24.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
