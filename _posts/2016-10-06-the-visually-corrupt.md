@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-27T22:19:14.329Z'
+datePublished: '2018-01-07T16:40:29.494Z'
 sourcePath: _posts/2016-10-06-the-visually-corrupt.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-27T22:19:13.462Z'
+dateModified: '2018-01-07T16:40:28.049Z'
 title: Various Personal Works
 publisher: {}
 description: ''
@@ -20,6 +20,9 @@ _type: Article
 
 ---
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a36760a8-cebf-4620-bc78-f8fa23bd2be9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2db9e00d-6284-431e-be5e-69f036fa696b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1922a8b4-320b-4f26-84e7-371267ef0d74.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9aa94f898ed4953c1a7a538a0650e158acc2a69.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6747baef04f1bf8e9051d5196c93bbd5fb07a492.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb260add-ee8b-4516-bbaa-00bdaccf8a88.jpg)
@@ -44,4 +47,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9b4870-ec14-4d0d-97c5-4544e5d61ac8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f22b902-08b6-4f9e-9ba0-1b0679ffae69.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9e8e12d-bfe3-4a3f-af7c-409269bc162d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1922a8b4-320b-4f26-84e7-371267ef0d74.jpg)
